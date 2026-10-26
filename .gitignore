@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Downloaded articles and images are user data, not source files.
+data/
+
+# Test / editor / operating-system artifacts
+.pytest_cache/
+.coverage
+.DS_Store
+Thumbs.db
+._*
